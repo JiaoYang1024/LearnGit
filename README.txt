@@ -6,4 +6,5 @@ git track changes of files;
 Nice,I have a github repository! Let's push origin master.
 I have created a new branch.
 This is a change by feature1 and master; 
+Something add on dev;
 
