@@ -9,3 +9,4 @@ This is a change by feature1 and master;
 Something add on dev;
 Test add something on branch dev,but no add or commit,switch branch master,check if change showed.
 All work has finshed in dev.
+Test remote branch dev.
